@@ -19,4 +19,4 @@ jobs:
                     distribution: 'temurin'
                     java-version: '21'
             - name: compile java program
-              run: javac EmployeeManagement.java
+              run: javac new.java
